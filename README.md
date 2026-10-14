@@ -1,10 +1,18 @@
-# My-Python-Learning
-My Python and GitHub learning journey.
 
-## Goals
-- Learn Python
-- Learn GitHub
-- Build AI projects
+# My Python Learning Journey
 
-## Progress
-- Day 1: Created my first repository
+## About Me
+I am learning Python, GitHub and AI Engineering.
+
+## Learning Goals
+- Learn Python basics
+- Practice Git and GitHub
+- Build Python projects
+- Learn AI Agents
+
+## Learning Progress
+- [x] Create my first GitHub repository
+- [ ] Create my first Python program
+- [ ] Learn Git commands
+- [ ] Build my first AI project
+  
